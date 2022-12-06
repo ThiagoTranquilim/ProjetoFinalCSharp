@@ -1,0 +1,105 @@
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.csproj.AssemblyReference.cache
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Form1.resources
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.csproj.GenerateResource.cache
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfoInputs.cache
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfo.cs
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.csproj.CoreCompileInputs.cache
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\bin\Debug\net6.0-windows\Interface.exe
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\bin\Debug\net6.0-windows\Interface.deps.json
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\bin\Debug\net6.0-windows\Interface.runtimeconfig.json
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\bin\Debug\net6.0-windows\Interface.dll
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\bin\Debug\net6.0-windows\Interface.pdb
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.csproj.CopyComplete
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.dll
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\refint\Interface.dll
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.pdb
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.genruntimeconfig.cache
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\ref\Interface.dll
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Properties.Resources.resources
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormCustomers.resources
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormDashboard.resources
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormMarketing.resources
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormOrders.resources
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormProducts.resources
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormSettings.resources
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\trtra\Documents\Sistemas de Informação\2°Período\LTP1\VisualStudio\Projects\.vs\Interface\Interface\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\Interface.exe
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\Interface.deps.json
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\Interface.runtimeconfig.json
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\Interface.dll
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\Interface.pdb
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.csproj.AssemblyReference.cache
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Form1.resources
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormCustomers.resources
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormDashboard.resources
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormMarketing.resources
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormOrders.resources
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormProducts.resources
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormSettings.resources
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Properties.Resources.resources
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.csproj.GenerateResource.cache
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfoInputs.cache
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfo.cs
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.csproj.CoreCompileInputs.cache
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.csproj.CopyComplete
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.dll
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\refint\Interface.dll
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.pdb
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.genruntimeconfig.cache
+C:\Users\08721339660\Source\Repos\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\ref\Interface.dll
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\Interface.exe
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\Interface.deps.json
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\Interface.runtimeconfig.json
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\Interface.dll
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\Interface.pdb
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.csproj.AssemblyReference.cache
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Form1.resources
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormCustomers.resources
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormOrders.resources
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormProducts.resources
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Properties.Resources.resources
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.csproj.GenerateResource.cache
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfoInputs.cache
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfo.cs
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.csproj.CoreCompileInputs.cache
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.csproj.CopyComplete
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.dll
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\refint\Interface.dll
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.pdb
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.genruntimeconfig.cache
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\ref\Interface.dll
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FrmAddMarca.resources
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FrmAddCategoria.resources
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FrmAddOrder.resources
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FrmLogin.resources
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormMenu.resources
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FrmUpdateProduto.resources
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FrmUpdateCliente.resources
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FrmupdateVenda.resources
+C:\Users\trtra\Desktop\SistemaBar\.vs\Interface\Interface\obj\Debug\net6.0-windows\Interface.Forms.FormUpdate.resources
