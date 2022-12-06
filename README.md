@@ -10,3 +10,6 @@
 - `Functionality 4`: Costumers - Customer configuration, examples: name, address, telephone and documents.
 - `Functionality 5`: Marketing - Information about software developers.
 - `Functionality 6`: Settings - General software configuration.
+
+Apresentação do Sistema:
+https://youtu.be/S8HcbgokA_Y
